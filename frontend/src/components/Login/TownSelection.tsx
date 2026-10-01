@@ -239,7 +239,7 @@ export default function TownSelection(): JSX.Element {
       <form>
         <Stack>
           <Heading as='h1' size='md'>
-            Team 13 - Covey.Town Deployment Demo
+            Team 13 - Bryans Deployment Demo
           </Heading>
           <Box p='4' borderWidth='1px' borderRadius='lg'>
             <Heading as='h2' size='lg'>
